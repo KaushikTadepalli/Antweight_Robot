@@ -11,3 +11,6 @@ Build an antweight combat robot to compete at West Coast Combat Robotics League'
 2. Has wedgelets or dustpan for control
 3. Powerful but controllable drive
 4. Looks cool
+### Won't:
+1. Build a horizontal
+2. Build a solely control bot
