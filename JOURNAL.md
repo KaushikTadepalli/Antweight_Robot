@@ -2,10 +2,10 @@
 title: "Antweight Combat Robot"
 author: "Kaushik Tadepalli"
 description: "Building a vertical spinner 1 lb combat robot to compete at the West Coast Combat Robotic League June Event."
-created_at: "2025-05-22"
+created_at: "2025-05-21"
 ---
 # Day 1: Decisions
-
+Date: 5/21/25  
 Total Time Spent: 5h
 
 The goal for today is to finalize the overall robot geometry and make some key design decisions.
