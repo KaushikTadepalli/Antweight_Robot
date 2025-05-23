@@ -32,7 +32,7 @@ Date: 5/22/25
 Total Time Spent: 7h
 
 After finalizing our design intent, we started with the bulk of the CAD work. We started with the TPU frame and weapon uprights, adding drive motor mounting and wheels. We then integrated the hubmotor and disk into the uprights. After a few hours of CAD work, our preliminary design was complete. 
-<a href="url"><img src="https://github.com/user-attachments/assets/a95c631f-5e58-4188-b3fc-f113a74e6de8" align="right" height="200" width="auto" ></a>    
+<a href="url"><img src="https://github.com/user-attachments/assets/d002c706-cd37-4787-a417-703b639494d2" align="right" height="200" width="auto" ></a>    
 
 <a href="url"><img src="https://github.com/user-attachments/assets/de1e3fe3-b25c-4c42-a9bb-332a12cf04f0" align="left" height="250" width="auto" ></a>  
 
