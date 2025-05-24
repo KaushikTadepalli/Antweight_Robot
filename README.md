@@ -38,22 +38,24 @@ Already own:
 - Lipo Charger and Bag
 
 To Buy:
-| Item Name          | Vendor          | Purpose                                           | Total Item Price |
-|--------------------|-----------------|---------------------------------------------------|------------------|
-| Hubmotor           | Repeat Robotics | Battle-hardened weapon motor                      |              $50 |
-| Drive Motor 2x     | Repeat Robotics | Brushless drive motors                            |              72$ |
-| Brushless Dual ESC | Repeat Robotics | Controls drive motors and powers receiver         |               45 |
-| Weapon ESC         | Repeat Robotics | Controls weapon motor                             |             13.5 |
-| Switch             | Repeat Robotics | Controls battery power                            |               $9 |
-| ELRS Receiver      | Amazon          | Connects to ESCs and transmitter                  |            24.99 |
-| 3S 380mah Lipos 2x | Amazon          | Powers robot                                      |             16.7 |
-| Plastite Screws    | Amazon          | Attaches parts to TPU frame                       |             6.92 |
-| Shoulder Bolt      | Amazon          | Holds weapon assembly                             |             9.99 |
-| 10/24 Lock Nut     | Amazon          | For securing shoulder bolt                        |             4.99 |
-| M3 x 50mm Screw    | Amazon          | Long standoff that secures TPU to weapon uprights |             5.49 |
-| M3 Nylon Nuts      | Amazon          | For all M3 hardware                               |             7.99 |
-| Banebots Wheels 2x | Palm Beach Bots | Maintains grip with different floor types         |                5 |
-| Wheel Hubs 2x      | Palm Beach Bots | Attaches to 3mm shaft and wheel                   |                8 |
-| Weapon Disk 2x     | SendCutSend     | Fits on hubmotor, transfers energy to opponent    |            34.21 |
+| Item Name                | Vendor          | Purpose                                           | Total Item Price (USD) |
+|--------------------------|-----------------|---------------------------------------------------|------------------|
+| [Hubmotor 2400kV](https://repeat-robotics.com/buy/2207-battle-ready-hubmotor/)          | Repeat Robotics | Battle-hardened weapon motor                      |               45 |
+| [Drive Motor 2x](https://repeat-robotics.com/buy/mini-mk4/)           | Repeat Robotics | Brushless drive motors                            |               72 |
+| [Brushless Dual ESC](https://repeat-robotics.com/buy/repeat-am32-dual-brushless-drive-esc/)       | Repeat Robotics | Controls drive motors and powers receiver         |               45 |
+| [Weapon ESC](https://repeat-robotics.com/buy/readytosky-35a-blheli_s-ant-weapon-esc/)               | Repeat Robotics | Controls weapon motor                             |             13.5 |
+| [Switch](https://repeat-robotics.com/buy/fingertech-switch/)                   | Repeat Robotics | Controls battery power                            |                9 |
+| Repeat Shipping          | Repeat Robotics | Shipping cost                                     |                5 |
+| [ELRS Receiver](https://www.amazon.com/Speedybee-RadioMaster-ER4-ELRS-Receiver/dp/B0CBP2YNF2/)            | Amazon          | Connects to ESCs and transmitter                  |            24.99 |
+| [3S 380mah Lipos 2x](https://www.amazon.com/CODDAR-Battery-Connector-Toothpick-CD3S38060HV/dp/B09P7T71K5)       | Amazon          | Powers robot                                      |             16.7 |
+| [Plastite Screws](https://www.amazon.com/Stainless-Rolling-Plastic-Passivated-Phillips/dp/B00GDYB61Y?)          | Amazon          | Attaches parts to TPU frame                       |             6.92 |
+| [Shoulder Bolt](https://www.amazon.com/uxcell-Hexagon-Socket-Shoulder-Screws/dp/B09L51L2FV?)            | Amazon          | Holds weapon assembly                             |             9.99 |
+| [10/24 Lock Nut](https://www.amazon.com/uxcell-Stainless-Self-Locking-Industrial-Construction/dp/B0DZH5T3GM?)           | Amazon          | For securing shoulder bolt                        |             4.99 |
+| [M3 x 50mm Screw](https://www.amazon.com/uxcell-Stainless-Phillips-Machine-Combine/dp/B0F1NQNB8V?)          | Amazon          | Long standoff that secures TPU to weapon uprights |             5.49 |
+| [M3 Nylon Nuts](https://www.amazon.com/Nylon-Insert-Stainless-Steel-Locknut/dp/B0865NLJNN?th=1)            | Amazon          | For all M3 hardware                               |             7.99 |
+| [Banebots Wheels 2x](https://palmbeachbots.com/products/banebots-t40-wheel-1-3-8-x-0-4-1-2-hex-mount-50a-black-blue?pr_prod_strat=jac&pr_rec_id=5c0ce2751&pr_rec_pid=7363783721142&pr_ref_pid=7363773235382&pr_seq=uniform)       | Palm Beach Bots | Maintains grip with different floor types         |                5 |
+| [Wheel Hubs 2x](https://palmbeachbots.com/products/banebots-t40-hub-3mm-shaft-1-wide)            | Palm Beach Bots | Attaches to 3mm shaft and wheel                   |                8 |
+| Palm Beach Bots Shipping | Palm Beach Bots | Shipping cost                                     |             5.51 |
+| Weapon Disk 2x           | SendCutSend     | Fits on hubmotor, transfers energy to opponent    |            34.21 |
 
-Total Price: $314
+Total Price: $324.21
