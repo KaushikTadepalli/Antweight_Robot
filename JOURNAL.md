@@ -4,6 +4,8 @@ author: "Kaushik Tadepalli"
 description: "Building a vertical spinner 1 lb combat robot to compete at the West Coast Combat Robotics League June Event."
 created_at: "2025-05-21"
 ---
+Total Time Spent: 17h
+
 # Day 1: Decisions
 Date: 5/21/25  
 Total Time Spent: 5h
