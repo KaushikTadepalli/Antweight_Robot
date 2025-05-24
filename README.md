@@ -40,8 +40,8 @@ Already own:
 To Buy:
 | Item Name                | Vendor          | Purpose                                           | Total Item Price (USD) |
 |--------------------------|-----------------|---------------------------------------------------|------------------|
-| [Hubmotor 2400kV](https://repeat-robotics.com/buy/2207-battle-ready-hubmotor/)          | Repeat Robotics | Battle-hardened weapon motor                      |               45 |
-| [Drive Motor 2x](https://repeat-robotics.com/buy/mini-mk4/)           | Repeat Robotics | Brushless drive motors                            |               72 |
+| [Hubmotor 2400kV](https://repeat-robotics.com/buy/2207-battle-ready-hubmotor/)          | Repeat Robotics | Battle-hardened weapon motor                      |               50 |
+| [Drive Motor 2x](https://repeat-robotics.com/buy/mini-mk4/)           | Repeat Robotics | Brushless drive motors                            |               70 |
 | [Brushless Dual ESC](https://repeat-robotics.com/buy/repeat-am32-dual-brushless-drive-esc/)       | Repeat Robotics | Controls drive motors and powers receiver         |               45 |
 | [Weapon ESC](https://repeat-robotics.com/buy/readytosky-35a-blheli_s-ant-weapon-esc/)               | Repeat Robotics | Controls weapon motor                             |             13.5 |
 | [Switch](https://repeat-robotics.com/buy/fingertech-switch/)                   | Repeat Robotics | Controls battery power                            |                9 |
@@ -60,4 +60,4 @@ To Buy:
 | Palm Beach Bots Shipping | Palm Beach Bots | Shipping cost                                     |             5.51 |
 | Weapon Disk 2x           | SendCutSend     | Fits on hubmotor, transfers energy to opponent    |            34.21 |
 
-Total Price: $345.44
+Total Price: $348.37
