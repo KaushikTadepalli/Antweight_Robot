@@ -47,7 +47,7 @@ To Buy:
 | [Switch](https://repeat-robotics.com/buy/fingertech-switch/)                   | Repeat Robotics | Controls battery power                            |                9 |
 | Repeat Shipping          | Repeat Robotics | Shipping cost                                     |                5 |
 | [ELRS Receiver](https://www.amazon.com/Speedybee-RadioMaster-ER4-ELRS-Receiver/dp/B0CBP2YNF2/)            | Amazon          | Connects to ESCs and transmitter                  |            24.99 |
-| [3S 380mah Lipos 2x](https://www.amazon.com/CODDAR-Battery-Connector-Toothpick-CD3S38060HV/dp/B09P7T71K5)       | Amazon          | Powers robot                                      |             16.7 |
+| [3S 380mah Lipos 2x](https://www.amazon.com/CODDAR-Battery-Connector-Toothpick-CD3S38060HV/dp/B09P7T71K5)       | Amazon          | Powers robot                                      |             22.89 |
 | [Plastite Screws](https://www.amazon.com/Stainless-Rolling-Plastic-Passivated-Phillips/dp/B00GDYB61Y?)          | Amazon          | Attaches parts to TPU frame                       |             6.92 |
 | [Shoulder Bolt](https://www.amazon.com/uxcell-Hexagon-Socket-Shoulder-Screws/dp/B09L51L2FV?)            | Amazon          | Holds weapon assembly                             |             9.99 |
 | [10/24 Lock Nut](https://www.amazon.com/uxcell-Stainless-Self-Locking-Industrial-Construction/dp/B0DZH5T3GM?)           | Amazon          | For securing shoulder bolt                        |             4.99 |
@@ -60,4 +60,4 @@ To Buy:
 | Palm Beach Bots Shipping | Palm Beach Bots | Shipping cost                                     |             5.51 |
 | Weapon Disk 2x           | SendCutSend     | Fits on hubmotor, transfers energy to opponent    |            34.21 |
 
-Total Price: $334.19
+Total Price: $345.44
