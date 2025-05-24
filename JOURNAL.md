@@ -52,10 +52,33 @@ So, we changed the weapon design to have a more aggressive tooth to try to incre
 
 <a href="url"><img src="https://github.com/user-attachments/assets/3838813b-3006-431e-94cc-155952fafa89" align="right" height="200" width="auto" ></a> 
 
-When designing the weapon, we also had to consider self-righting. In the ideal case, as we are being flipped over, the weapon hits the ground and flips the robot back up. However, if the weapon was not spinning or had stopped as it contacted the ground, we would be stuck in that position. To mitigate this, we decided to have the weapon ears on the upright be slightly lower than the weapon diameter, allowing us to pop back up when the weapon is spinning but also self-right by hitting a wall or an opponent.
+When designing the weapon, we also had to consider self-righting. In the ideal case, as we are being flipped over, the weapon hits the ground and flips the robot back up. However, if the weapon was not spinning or had stopped as it contacted the ground, we would be stuck in that position. To mitigate this, we decided to have the weapon ears on the upright be slightly higher than the top of the weapon, allowing us to spin up the weapon while upside down and pop back up.
 
 All of these design iterations culminated into the current robot CAD.
 
 <a href="url"><img src="https://github.com/user-attachments/assets/3cf0b4c8-6fe9-4644-b24b-93db13e4a58a" align="center" height="600" width="auto" ></a> 
 
 Tomorrow, we plan to add fasteners, electronics, and work on weight budgeting and reduction, as well as some other minor design details.
+
+# Day 3: Details
+Date: 5/23/25  
+Total Time Spent: 5h
+
+We made a few minor design changes to the CAD, and added fasteners and electronics.
+
+<a href="url"><img src="https://github.com/user-attachments/assets/edb95cbb-aa04-4847-880f-662905b6afa6" align="left" height="350" width="auto" ></a> 
+
+
+We slightly altered the overall dimensions of the robot to better accomodate the electronics, added a slant to the sides to prevent getting stuck on our side, and removed and downsized screws due to weight considerations.
+
+<a href="url"><img src="https://github.com/user-attachments/assets/4f7d3e76-8690-4f76-9313-1dc685fd5619" align="right" height="450" width="auto" ></a> 
+
+Here's our wiring diagram and overall footprint. 
+
+
+The majority of our time was spent reducing weight wherever we could: originally our spreadsheet said we were 60 grams overweight, but after reducing weight by changing slicing settings and modifiers in specific areas, moving bolts from M4 to M3, and redoing the pocketing on the uprights, we ended up at a calculated 5 grams underweight.
+
+<br>
+<a href="url"><img src="https://github.com/user-attachments/assets/d5548c7b-a71d-48f5-aa9d-21abe1232e51" align="right" height="250" width="auto" ></a> 
+
+Our BOM is almost finalized, we just need to add shipping and taxes for all the suppliers. We hope to start printing the TPU body over the weekend, and cut the uprights on Tuesday. After that, we'll wait to be approved by Hack Club and organize our tools and fasteners so we can begin assembly and wiring.
