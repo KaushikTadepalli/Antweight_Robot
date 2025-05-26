@@ -60,6 +60,6 @@ To Buy:
 | [Banebots Wheels 2x](https://palmbeachbots.com/products/banebots-t40-wheel-1-3-8-x-0-4-1-2-hex-mount-50a-black-blue?pr_prod_strat=jac&pr_rec_id=5c0ce2751&pr_rec_pid=7363783721142&pr_ref_pid=7363773235382&pr_seq=uniform)       | Palm Beach Bots | Maintains grip with different floor types         |                5 |
 | [Wheel Hubs 2x](https://palmbeachbots.com/products/banebots-t40-hub-3mm-shaft-1-wide)            | Palm Beach Bots | Attaches to 3mm shaft and wheel                   |                8 |
 | Palm Beach Bots Shipping | Palm Beach Bots | Shipping cost                                     |             5.51 |
-| Weapon Disk 2x           | SendCutSend     | Fits on hubmotor, transfers energy to opponent    |            34.21 |
+| [Weapon Disk 2x](https://cart.sendcutsend.com/3ndcgrituwym)           | SendCutSend     | Fits on hubmotor, transfers energy to opponent    |            34.21 |
 
 Total Price: $348.37
