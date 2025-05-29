@@ -102,11 +102,12 @@ After a bit of a break from the journal, we're back with more updates. Over the 
 
 With the TPU body complete, we got approval from Hack Club for our advanced project, and received the 350$ grant to purchase our parts. Today, we cut the self-reinforced polypropelene parts on the laser cutter, and test fit them onto the chassis.
 
-<a href="url"><img src="https://github.com/user-attachments/assets/282667ab-e378-4bd6-a0c3-b332df2aa4ec" align="left" height="250" width="auto" ></a> 
+<a href="url"><img src="https://github.com/user-attachments/assets/282667ab-e378-4bd6-a0c3-b332df2aa4ec" align="left" height="200" width="auto" ></a>  
 
+<br> </br> <br> <br> <br> <br>
 First, we completed the 1/8 in top armor and got the middle spacer printed out of Onyx on a Markforged Mark Two. 
 
-<a href="url"><img src="https://github.com/user-attachments/assets/07ce9cfa-58d3-4700-a830-e298e525a027" align="right" height="250" width="auto" ></a> 
+<a href="url"><img src="https://github.com/user-attachments/assets/07ce9cfa-58d3-4700-a830-e298e525a027" align="right" height="300" width="auto" ></a> 
 
 We then continued to make the 1/4 in weapon uprights, and test fit them onto the chassis. However, we encountered some issues. First, the 1/4 in plate did not cut as cleanly as we would have liked on the laser, with some areas looking really rough and warped. The thicker material caused more of the polypropelene to melt and gum up rather than cut, and we're not really sure how to fix this.
 
@@ -114,6 +115,7 @@ We then continued to make the 1/4 in weapon uprights, and test fit them onto the
 
 Additionally, the 1/4 in plates were slightly thicker than we had thought, and some warping due to the laser cutting caused the plates to push the TPU into a banana shape. Although concerning, we believe that once the standoffs and weapon shoulder bolt are put in place, it will resolve the bending by forcing it back to being parallel.
 
-<a href="url"><img src="https://github.com/user-attachments/assets/26cb6f41-fe35-498b-849c-1ba44edb867a" align="left" height="250" width="auto" ></a> 
 
 By the end of today, this is how the robot looks. Over the next few days, we'll order all of the parts from our BOM and hopefully start assembling more of the robot by the end of the week!
+
+<a href="url"><img src="https://github.com/user-attachments/assets/26cb6f41-fe35-498b-849c-1ba44edb867a" align="left" height="350" width="auto" ></a> 
