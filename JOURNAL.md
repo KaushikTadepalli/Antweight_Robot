@@ -98,10 +98,11 @@ After a bit of a break from the journal, we're back with more updates. Over the 
 
 With the TPU body complete, we got approval from Hack Club for our advanced project, and received the 350$ grant to purchase our parts. Today, we cut the self-reinforced polypropelene parts on the laser cutter, and test fit them onto the chassis.
 
+First, we completed the 1/8 in top armor and got the middle spacer printed out of Onyx on a Markforged Mark Two. 
+
 <a href="url"><img src="https://github.com/user-attachments/assets/282667ab-e378-4bd6-a0c3-b332df2aa4ec" align="left" height="200" width="auto" ></a>  
 
-<br> </br> <br> <br> <br> <br>
-First, we completed the 1/8 in top armor and got the middle spacer printed out of Onyx on a Markforged Mark Two. 
+<br> <br>
 
 <a href="url"><img src="https://github.com/user-attachments/assets/07ce9cfa-58d3-4700-a830-e298e525a027" align="right" height="300" width="auto" ></a> 
 
