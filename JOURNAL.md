@@ -81,16 +81,12 @@ Here's our wiring diagram and overall footprint.
 The majority of our time was spent reducing weight wherever we could: originally our spreadsheet said we were 60 grams overweight, but after reducing weight by changing slicing settings and modifiers in specific areas, moving bolts from M4 to M3, and redoing the pocketing on the uprights, we ended up at a calculated 5 grams underweight.
 
 <br>
-<a href="url"><img src="https://github.com/user-attachments/assets/d5548c7b-a71d-48f5-aa9d-21abe1232e51" align="center" height="300" width="auto" ></a> 
 
 Our BOM is almost finalized, we just need to add shipping and taxes for all the suppliers. We hope to start printing the TPU body over the weekend, and cut the uprights on Tuesday. After that, we'll wait to be approved by Hack Club and organize our tools and fasteners so we can begin assembly and wiring.
 
 
+<a href="url"><img src="https://github.com/user-attachments/assets/d5548c7b-a71d-48f5-aa9d-21abe1232e51" align="center" height="300" width="auto" ></a> 
 
-
-
-
-<br></br>
 
 # Day 4: Manufacturing and Money
 Date: 5/28/25  
