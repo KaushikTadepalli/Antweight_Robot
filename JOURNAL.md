@@ -84,3 +84,36 @@ The majority of our time was spent reducing weight wherever we could: originally
 <a href="url"><img src="https://github.com/user-attachments/assets/d5548c7b-a71d-48f5-aa9d-21abe1232e51" align="right" height="250" width="auto" ></a> 
 
 Our BOM is almost finalized, we just need to add shipping and taxes for all the suppliers. We hope to start printing the TPU body over the weekend, and cut the uprights on Tuesday. After that, we'll wait to be approved by Hack Club and organize our tools and fasteners so we can begin assembly and wiring.
+
+
+
+
+
+
+<br></br>
+
+# Day 4: Manufacturing and Money
+Date: 5/28/25  
+Total Time Spent: 6h
+
+After a bit of a break from the journal, we're back with more updates. Over the weekend, we printed the TPU body and wedgelets, and waited for approval from Hack Club. 
+
+<a href="url"><img src="https://github.com/user-attachments/assets/363653a8-e139-45cb-8c32-def6be4bb530" align="right" height="250" width="auto" ></a> 
+
+With the TPU body complete, we got approval from Hack Club for our advanced project, and received the 350$ grant to purchase our parts. Today, we cut the self-reinforced polypropelene parts on the laser cutter, and test fit them onto the chassis.
+
+<a href="url"><img src="https://github.com/user-attachments/assets/282667ab-e378-4bd6-a0c3-b332df2aa4ec" align="left" height="250" width="auto" ></a> 
+
+First, we completed the 1/8 in top armor and got the middle spacer printed out of Onyx on a Markforged Mark Two. 
+
+<a href="url"><img src="https://github.com/user-attachments/assets/07ce9cfa-58d3-4700-a830-e298e525a027" align="right" height="250" width="auto" ></a> 
+
+We then continued to make the 1/4 in weapon uprights, and test fit them onto the chassis. However, we encountered some issues. First, the 1/4 in plate did not cut as cleanly as we would have liked on the laser, with some areas looking really rough and warped. The thicker material caused more of the polypropelene to melt and gum up rather than cut, and we're not really sure how to fix this.
+
+<a href="url"><img src="https://github.com/user-attachments/assets/9a6677dd-d677-4ba2-a340-5ff0ed1d9429" align="left" height="250" width="auto" ></a> 
+
+Additionally, the 1/4 in plates were slightly thicker than we had thought, and some warping due to the laser cutting caused the plates to push the TPU into a banana shape. Although concerning, we believe that once the standoffs and weapon shoulder bolt are put in place, it will resolve the bending by forcing it back to being parallel.
+
+<a href="url"><img src="https://github.com/user-attachments/assets/26cb6f41-fe35-498b-849c-1ba44edb867a" align="left" height="250" width="auto" ></a> 
+
+By the end of today, this is how the robot looks. Over the next few days, we'll order all of the parts from our BOM and hopefully start assembling more of the robot by the end of the week!
