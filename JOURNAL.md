@@ -4,7 +4,7 @@ author: "Kaushik Tadepalli"
 description: "Building a vertical spinner 1 lb combat robot to compete at the West Coast Combat Robotics League June Event."
 created_at: "2025-05-21"
 ---
-Total Time Spent: 17h
+Total Time Spent: 27h
 
 # Day 1: Decisions
 Date: 5/21/25  
@@ -54,7 +54,7 @@ So, we changed the weapon design to have a more aggressive tooth to try to incre
 
 <a href="url"><img src="https://github.com/user-attachments/assets/3838813b-3006-431e-94cc-155952fafa89" align="right" height="200" width="auto" ></a> 
 
-When designing the weapon, we also had to consider self-righting. In the ideal case, as we are being flipped over, the weapon hits the ground and flips the robot back up. However, if the weapon was not spinning or had stopped as it contacted the ground, we would be stuck in that position. To mitigate this, we decided to have the weapon ears on the upright be slightly higher than the top of the weapon, allowing us to spin up the weapon while upside down and pop back up.
+When designing the weapon, we also had to consider self-righting. In the ideal case, as we are being flipped over, the weapon hits the ground and flips the robot back up. However, if the weapon was not spinning or had stopped as it contacted the ground, we would be stuck in that position. To mitigate this, we decided to have the weapon ears on the upright be slightly lower than the top of the weapon, allowing us to spin up the weapon while upside down and pop back up.
 
 All of these design iterations culminated into the current robot CAD.
 
@@ -115,5 +115,41 @@ Additionally, the 1/4 in plates were slightly thicker than we had thought, and s
 
 
 By the end of today, this is how the robot looks. Over the next few days, we'll order all of the parts from our BOM and hopefully start assembling more of the robot by the end of the week!
+<a href="url"><img src="https://github.com/user-attachments/assets/26cb6f41-fe35-498b-849c-1ba44edb867a" align="center" height="450" width="auto" ></a>
 
-<a href="url"><img src="https://github.com/user-attachments/assets/26cb6f41-fe35-498b-849c-1ba44edb867a" align="left" height="350" width="auto" ></a> 
+ 
+# Day 5: Shipping, Assembly, and Wiring
+Date: 6/6/25  
+Total Time Spent: 10h
+
+
+All the parts have arrived!
+
+<a href="url"><img src="https://github.com/user-attachments/assets/e49bce57-f24e-4a04-8e32-b1e0a9e8964b" align="center" height="450" width="auto" ></a>   
+
+Unfortunately, Repeat Robotics sent us the wrong motor shaft size (4mm instead of 3mm), and it'll take another week for the new motors to arrive. Even worse, progress is limited without the drive motors as the frame must be completely disassembled to allow the drive motors to flex into place. Since the weapon wires go through the upright, this means I can't solder anything that goes through the frame without having to remove it later. 
+
+
+Starting with the battery side, we've had issues trying to fit the components together without squishing them. 
+
+<a href="url"><img src="https://github.com/user-attachments/assets/08f5f46a-057c-435c-8199-808be13ca81c" align="left" height="300" width="auto" ></a>   
+
+
+The battery leads are quite long and have a long piece of heat shrink on the XT30s which creates a long straight portion of the wire. This forces the leads into the middle wire channel with the current position of the switch. While it fits, it is not ideal and we are looking into moving the switch somewhere else to better accomodate the battery.
+
+<a href="url"><img src="https://github.com/user-attachments/assets/6d014575-82c6-42e5-a53d-8bad932198b5" align="right" height="250" width="auto" ></a>   
+<a href="url"><img src="https://github.com/user-attachments/assets/fe1acc0b-de30-41bb-be2f-d8b1e667eb86" align="left" height="250" width="auto" ></a>   
+
+
+
+<br><br><br><br><br>
+The weapon module went together smoothly and the disk feels balanced and rotates well. The banana-ing issue we saw earlier is mostly (but not completely) resolved by the middle standoffs holding it in compression. The weapon lock also works and we are happy with the amount of bite the weapon has while upside-down (1/8 inch).
+
+<a href="url"><img src="https://github.com/user-attachments/assets/32cd5fc7-7baf-4ed3-93c3-ff56988bdffb" align="left" height="300" width="auto" ></a>   
+
+On the main TPU frame, we've printed out a full spare set of every component with extra front wedgelet mounts and wedgelets. We also switched to using longer thread-rolling screws in some areas for more engagement with the TPU. 
+
+I've held off on soldering the weapon ESC and drive ESC as I want to wait for the drive motors and standoffs to be in place before cutting the wires down to length so it doesn't become a pain in the future.
+<br><br>
+Once the motors arrive, we'll be able to assemble and solder the rest and (hopefully) not fry the electronics. Then I can set up the radio and mixing, as well as test out the drive and weapon motors.
+
