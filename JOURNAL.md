@@ -153,3 +153,35 @@ I've held off on soldering the weapon ESC and drive ESC as I want to wait for th
 <br><br>
 Once the motors arrive, we'll be able to assemble and solder the rest and (hopefully) not fry the electronics. Then I can set up the radio and mixing, as well as test out the drive and weapon motors.
 
+
+# Day 6: Testing and Fixing
+Date: 6/14/25  
+Total Time Spent: 15h
+
+With the new motors, we were able to finish the assembly of the robot and wire it up.
+
+![PXL_20250611_042552402](https://github.com/user-attachments/assets/d7609d62-43fa-4a0a-8a37-54c520a00829)
+
+We started by soldering the weapon ESC to the bottom of the double sided power soldering pads on the Repeat dual drive ESC, so that we didn't have to splice the power wire. We then soldered the weapon ESC wires but did not shrink the heat shrink since the weapon ESC is unidirectional, so wires may need to be swapped to spin the right way.
+
+We then soldered the closest side drive motor, battery leads from the XT30 pigtail, and finally the far side motor wires, which were very barely able to reach the ESC. On the battery side, we ended up leaving it the same way it was before and it seems to be working. A lot of the wiring was made more difficult since the wires threaded through holes in the chassis and the plates which made soldering harder as everything had to be in its final place while soldering. Wire channels would have been a better approach, but it ended up being fine.
+
+![image](https://github.com/user-attachments/assets/93ff751c-08ae-4be6-afa4-6165f911129e)
+
+After wiring was complete, we were ready for the first power on. The total weight came to about .92 lbs, so we had some breathing room to make changes. We used a multimeter to check for any shorts and everything worked when we powered it on. Unfortunately, the Repeat dual ESC wasn't flashed with the pretuned AM32 firmware so I used an Arduino Uno as a link to flash it with the bidirectional settings. Then I set up the mixes and failsafe on my Radiomaster Pocket and everything was functional!
+
+![image](https://github.com/user-attachments/assets/2f41e444-e828-4de0-9e61-7147efbbaaa1)
+
+I quickly realized that the weight distribution was a huge issue- since the weapon and battery are both pushed to the very front, the wheels have no traction and didn't really move the robot in a controllable way. The robot drove super well upside down and self-righting worked great, but right-side up driving did not work. To fix this, we added magnets to the back right side as it was both front heavy and left heavy due to the battery, and the magnets worked extremely well to counter this effect by increasing the downforce in the opposite corner. If we want to later compete at a wooden floored event such as BCRC, we would need to make major changes to the robot. 
+
+https://github.com/user-attachments/assets/c87e3813-71e4-4854-8e02-279d12350a75
+
+![image](https://github.com/user-attachments/assets/b7639bbb-4796-4c09-b939-90f32c87a6b7)
+
+
+https://github.com/user-attachments/assets/f46638b3-1f18-4b48-a354-72a768e52daa
+
+
+We also spun up the weapon outside and found that it spun backwards, so we flipped two of the wires and it worked great. The weapon is well-balanced and it is quite scary even though we only went to around 50% throttle. 
+
+Over the testing period, we found a bunch of durability concerns to be addressed. The largest one was the screws backing out of the wheel assembly. The set screws of the wheel hubs and the motor mounting screws both backed out, causing the wheels to jam and make the motor get really hot. To fix this, we drilled out the threads in the hubs and retapped to a larger thread size, and will also buy Vibratite VC-3 as threadlocker (currently using superglue). We will also replace most of the thread-rolling screws with longer ones for more rigidity as the short ones on the BOM do not have enough engagement. Since we still have some extra weight, we may try to add some back armor to protect the motors, but no more major changes need to be made before WCCRL. We are really happy with the robot overall and will hopefully get one more journal entry deciding the name and doing final testing (hitting stuff with the weapon) before the event.
