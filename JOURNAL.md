@@ -175,15 +175,21 @@ After wiring was complete, we were ready for the first power on. The total weigh
 
 I quickly realized that the weight distribution was a huge issue- since the weapon and battery are both pushed to the very front, the wheels have no traction and didn't really move the robot in a controllable way. The robot drove super well upside down and self-righting worked great, but right-side up driving did not work. 
 
+
 https://github.com/user-attachments/assets/c87e3813-71e4-4854-8e02-279d12350a75
+
 
 To fix this, we added magnets to the back right side as it was both front heavy and left heavy due to the battery, and the magnets worked extremely well to counter this effect by increasing the downforce in the opposite corner. If we want to later compete at a wooden floored event such as BCRC, we would need to make major changes to the robot. 
 
 <a href="url"><img src="https://github.com/user-attachments/assets/b7639bbb-4796-4c09-b939-90f32c87a6b7" align="center" height="300" width="auto" ></a>   
+
+
 
 https://github.com/user-attachments/assets/f46638b3-1f18-4b48-a354-72a768e52daa
 
 
 We also spun up the weapon outside and found that it spun backwards, so we flipped two of the wires and it worked great. The weapon is well-balanced and it is quite scary even though we only went to around 50% throttle. 
 
-Over the testing period, we found a bunch of durability concerns to be addressed. The largest one was the screws backing out of the wheel assembly. The set screws of the wheel hubs and the motor mounting screws both backed out, causing the wheels to jam and make the motor get really hot. To fix this, we drilled out the threads in the hubs and retapped to a larger thread size, and will also buy Vibratite VC-3 as threadlocker (currently using superglue). We will also replace most of the thread-rolling screws with longer ones for more rigidity as the short ones on the BOM do not have enough engagement. Since we still have some extra weight, we may try to add some back armor to protect the motors, but no more major changes need to be made before WCCRL. We are really happy with the robot overall and will hopefully get one more journal entry deciding the name and doing final testing (hitting stuff with the weapon) before the event.
+Over the testing period, we found a bunch of durability concerns to be addressed. The largest one was the screws backing out of the wheel assembly. The set screws of the wheel hubs and the motor mounting screws both backed out, causing the wheels to jam and make the motor get really hot. To fix this, we drilled out the threads in the hubs and retapped to a larger thread size, and will also buy Vibratite VC-3 as threadlocker (currently using superglue). We will also replace most of the thread-rolling screws with longer ones for more rigidity as the short ones on the BOM do not have enough engagement. Since we still have some extra weight, we may try to add some back armor to protect the motors, but no more major changes need to be made before WCCRL. 
+
+Overall, we are really happy with the robot overall and will hopefully get one more journal entry deciding the name and doing final testing (hitting stuff with the weapon) before the event.
