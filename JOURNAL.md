@@ -4,7 +4,7 @@ author: "Kaushik Tadepalli"
 description: "Building a vertical spinner 1 lb combat robot to compete at the West Coast Combat Robotics League June Event."
 created_at: "2025-05-21"
 ---
-Total Time Spent: 27h
+Total Time Spent: 58h
 
 # Day 1: Decisions
 Date: 5/21/25  
@@ -193,3 +193,32 @@ We also spun up the weapon outside and found that it spun backwards, so we flipp
 Over the testing period, we found a bunch of durability concerns to be addressed. The largest one was the screws backing out of the wheel assembly. The set screws of the wheel hubs and the motor mounting screws both backed out, causing the wheels to jam and make the motor get really hot. To fix this, we drilled out the threads in the hubs and retapped to a larger thread size, and will also buy Vibratite VC-3 as threadlocker (currently using superglue). We will also replace most of the thread-rolling screws with longer ones for more rigidity as the short ones on the BOM do not have enough engagement. Since we still have some extra weight, we may try to add some back armor to protect the motors, but no more major changes need to be made before WCCRL. 
 
 Overall, we are really happy with the robot and will hopefully get one more journal entry deciding the name and doing final testing (hitting stuff with the weapon) before the event.
+
+# Day 7: Final Preparations
+Date: 6/20/25  
+Total Time Spent: 10h
+
+Over the past week we have made some final preparations for the competition. Using 22 gauge steel from Home Depot, we cut and bent back armor to fit over the back TPU, mounting to the back screws of the top plate. 
+
+
+<a href="url"><img src="https://github.com/user-attachments/assets/1b5c81b0-008b-4b8d-bab7-159b81c864c5" align="center" height="400" width="auto" ></a>   
+
+<a href="url"><img src="https://github.com/user-attachments/assets/938639cb-366e-482f-b450-1ccaf06fa7af" align="center" height="400" width="auto" ></a>   
+
+The armor was carefully designed to exactly use up the extra 30 grams of weight budget we have to spare, and both protects the motors and adds more weight to the back, giving the wheels more traction.
+
+<a href="url"><img src="https://github.com/user-attachments/assets/8a75778c-633f-477a-b4ab-23f6c081c126" align="center" height="300" width="auto" ></a>   
+
+The first one ended up coming out a bit rough, so I made a second one.
+
+
+<a href="url"><img src="https://github.com/user-attachments/assets/5780188e-4468-40ed-9932-c014511d70b1" align="left" height="400" width="auto" ></a>  
+
+
+
+We also (finally) decided on a name for the robot: Inhibitor. I used a label maker with a clear background tape and stuck it onto the back armor.
+
+<a href="url"><img src="https://github.com/user-attachments/assets/219da55e-f67d-498d-858f-076e080a352b" align="center" height="500" width="auto" ></a>  
+
+Everything is packed up for the tournament tomorrow!
+
